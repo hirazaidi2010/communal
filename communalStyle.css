@@ -1,0 +1,203 @@
+body{
+    background: white;
+    color: #666666;
+}
+.sectionStyle{
+    margin-top: 30px;
+    box-shadow: -1px 0px 5px 4px rgba(41, 50, 50, 0.27);
+}
+/* navbar */
+.transNav{
+    background-color: transparent;
+}
+
+nav a{
+    font-size: 20px;
+    color: #666666;
+}
+nav a:hover{
+    font-size: 20px;
+    color: #666666;
+}
+
+
+nav .navbar-brand{
+    font-size: 40px;
+    color: #666666;
+}
+nav .navbar-brand:hover{
+
+    font-size: 40px;
+    color: #666666;
+}
+
+.borderLine1:hover{
+    border-bottom: solid 1px black !important;
+    padding-bottom: 1px;
+   
+}
+.borderLine2:hover{
+    border-bottom: solid 1px black;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #666666;
+}
+/* mainpanel */
+.mainPanelHeading{
+    font-size: 70px;
+    font-weight: bold;
+}
+.readMoreBtn{
+    font-size: 20px;
+    color: white;
+    background-color: #2B58B1 !important ;
+    border-radius: 50px;
+    font-weight: bold;
+    border: 0px;
+}
+.exampleItem{
+    width: 90%;
+}
+.solutionContainer{
+    width: 90%;
+}
+/* services provider */
+.serviceHeading{
+    font-size: 60px;
+}
+.serviceParagragh{
+    font-size: 25px;
+}
+.circleContainer{
+    background-image: url(assets/services.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 550px;
+    height: 900px;
+    width: 90%;
+}
+.callerlady{
+    width: 70%;
+    margin: auto;
+    height: 280px;
+}
+.items{
+    margin-left: 70px;
+}
+.problemDetails{
+    width: 90%;
+}
+.contents{
+   
+    font-size: 40px;
+}
+
+.swiper-container {
+    width: 100%;
+    height: 100%;
+  }
+  .background{
+      background-image: url("Assets/Group\ 1887.png");
+     background-repeat: no-repeat;
+     background-size: cover;
+     height: 900px;
+     width: 100%;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  
+
+.slideContainer{
+    width: 80%;
+}
+.arrow{
+    color: gray !important;
+}
+/* slider close */
+
+.clientImg{
+   
+    width: 90%;
+}
+
+.serviceProvide{
+    font-size: 70px;
+}
+
+.serviceImg{
+    width: 65%;
+    height: 250px;
+
+}
+.date{
+    color: blue;
+}
+.serviceContainer{
+    width: 90%;
+}
+.brand{
+    width: 90%;
+}
+.brandLogo{
+    float: left;
+    
+}
+.logo{
+    width: 80%;
+    height: 60px;
+}
+.footerList{
+    list-style: none;
+    float: left;
+}
+.footerListt{
+    margin-left: 100px;
+    list-style: none;
+}
+.inputEmail{
+    height: 50px;
+    border-radius: 40px;
+    border: 1px solid gray;
+    outline: none;
+    width: 70%;
+}
+.subscribeBtn{
+    border: 1px solid;
+    border-radius: 20px;
+    height: 40px;
+    width: 40%;
+    color: white;
+    font-weight: bold;
+    background-color: #2B58B1;
+}
+.footer{
+    width: 90%;
+}
+.footerBorder{
+    border-top: 1px solid grey;
+}
+nav a{
+    font-size: 20px;
+}
+nav .navbar-brand{
+    font-size: 40px;
+}
